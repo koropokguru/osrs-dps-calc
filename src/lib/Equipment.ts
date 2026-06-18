@@ -523,6 +523,7 @@ export const WEAPON_SPEC_COSTS: { [canonicalName: string]: number } = {
   'Abyssal whip': 50,
   'Barrelchest anchor': 50,
   'Eye of ayak': 50,
+  'Crimson Kisten': 50,
 
   'Magic shortbow': 55,
   'Dark bow': 55,
