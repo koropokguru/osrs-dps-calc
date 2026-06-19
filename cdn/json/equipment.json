@@ -50879,7 +50879,7 @@
     "slot": "weapon",
     "image": "Crimson kisten.png",
     "speed": 4,
-    "category": "spiked",
+    "category": "Spiked",
     "bonuses": {
       "str": 56,
       "ranged_str": 0,
