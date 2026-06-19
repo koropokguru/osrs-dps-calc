@@ -2,7 +2,7 @@ import {
   AttackDistribution, HitDistribution, Hitsplat, WeightedHit,
 } from '@/lib/HitDist';
 
-export const crimsonKistenSpec = (acc: number, max: number): AttackDistribution => {
+const crimsonKistenSpec = (acc: number, max: number): AttackDistribution => {
   const dist = new HitDistribution([]);
 
   const exactlyK = (k: number): number => {
@@ -47,3 +47,5 @@ export const crimsonKistenSpec = (acc: number, max: number): AttackDistribution 
 
   return new AttackDistribution([dist]);
 };
+
+export default crimsonKistenSpec;
