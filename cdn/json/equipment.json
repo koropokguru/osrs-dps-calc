@@ -22630,6 +22630,68 @@
     "isTwoHanded": false
   },
   {
+    "name": "Blisterwood sickle (e)",
+    "id": 33713,
+    "weight": 1.587,
+    "version": "",
+    "slot": "weapon",
+    "image": "Blisterwood sickle (e).png",
+    "speed": 5,
+    "category": "Slash Sword",
+    "bonuses": {
+      "str": 56,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 5
+    },
+    "offensive": {
+      "stab": 44,
+      "slash": 56,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 1,
+      "slash": 2,
+      "crush": 2,
+      "magic": 2,
+      "ranged": 2
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Blisterwood stake",
+    "id": 33716,
+    "weight": 0.34,
+    "version": "",
+    "slot": "weapon",
+    "image": "Blisterwood stake.png",
+    "speed": 3,
+    "category": "Thrown",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 14,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 16
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
     "name": "Blood ancient sceptre",
     "id": 28238,
     "weight": 2.267,
@@ -43339,7 +43401,7 @@
   },
   {
     "name": "Crate of glassmaking supplies",
-    "id": 32640,
+    "id": 32488,
     "weight": 1.285,
     "version": "",
     "slot": "weapon",
@@ -50870,16 +50932,15 @@
     },
     "isTwoHanded": false
   },
-
   {
-    "name": "Crimson Kisten",
-    "id": 92319,
-    "weight": 0.3,
+    "name": "Crimson kisten",
+    "id": 33631,
+    "weight": 2.825,
     "version": "",
     "slot": "weapon",
     "image": "Crimson kisten.png",
     "speed": 4,
-    "category": "Spiked",
+    "category": "Axe",
     "bonuses": {
       "str": 56,
       "ranged_str": 0,
@@ -50902,7 +50963,6 @@
     },
     "isTwoHanded": true
   },
-
   {
     "name": "Crone-made amulet",
     "id": 10500,
@@ -60146,7 +60206,7 @@
     "id": 33296,
     "weight": 1.814,
     "version": "",
-    "slot": "weapon",
+    "slot": "shield",
     "image": "Demonic sceptre.png",
     "speed": 4,
     "category": "Spiked",
@@ -60169,68 +60229,6 @@
       "crush": 0,
       "magic": 0,
       "ranged": 0
-    },
-    "isTwoHanded": false
-  },
-  {
-    "name": "Demonic slayer helmet",
-    "id": 33340,
-    "weight": 2.267,
-    "version": "Radiant",
-    "slot": "head",
-    "image": "Demonic slayer helmet (radiant).png",
-    "speed": 0,
-    "category": "",
-    "bonuses": {
-      "str": 0,
-      "ranged_str": 0,
-      "magic_str": 0,
-      "prayer": 0
-    },
-    "offensive": {
-      "stab": 0,
-      "slash": 0,
-      "crush": 0,
-      "magic": -6,
-      "ranged": -2
-    },
-    "defensive": {
-      "stab": 30,
-      "slash": 32,
-      "crush": 27,
-      "magic": -1,
-      "ranged": 30
-    },
-    "isTwoHanded": false
-  },
-  {
-    "name": "Demonic slayer helmet",
-    "id": 33338,
-    "weight": 2.267,
-    "version": "Regular",
-    "slot": "head",
-    "image": "Demonic slayer helmet.png",
-    "speed": 0,
-    "category": "",
-    "bonuses": {
-      "str": 0,
-      "ranged_str": 0,
-      "magic_str": 0,
-      "prayer": 0
-    },
-    "offensive": {
-      "stab": 0,
-      "slash": 0,
-      "crush": 0,
-      "magic": -6,
-      "ranged": -2
-    },
-    "defensive": {
-      "stab": 30,
-      "slash": 32,
-      "crush": 27,
-      "magic": -1,
-      "ranged": 30
     },
     "isTwoHanded": false
   },
@@ -61661,6 +61659,37 @@
     "isTwoHanded": false
   },
   {
+    "name": "Diamond sickle (b)",
+    "id": 33709,
+    "weight": 1.587,
+    "version": "",
+    "slot": "weapon",
+    "image": "Diamond sickle (b).png",
+    "speed": 5,
+    "category": "Slash Sword",
+    "bonuses": {
+      "str": 8,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 5
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 1,
+      "crush": 1,
+      "magic": 1,
+      "ranged": 1
+    },
+    "isTwoHanded": false
+  },
+  {
     "name": "Diamond speedrun trophy",
     "id": 27783,
     "weight": 1.5,
@@ -62127,37 +62156,6 @@
   },
   {
     "name": "Dizana's quiver",
-    "id": 28826,
-    "weight": 0.453,
-    "version": "Broken",
-    "slot": "cape",
-    "image": "Dizana's quiver (broken).png",
-    "speed": 0,
-    "category": "",
-    "bonuses": {
-      "str": 0,
-      "ranged_str": 0,
-      "magic_str": 0,
-      "prayer": 0
-    },
-    "offensive": {
-      "stab": 0,
-      "slash": 0,
-      "crush": 0,
-      "magic": 0,
-      "ranged": 0
-    },
-    "defensive": {
-      "stab": 0,
-      "slash": 0,
-      "crush": 0,
-      "magic": 0,
-      "ranged": 0
-    },
-    "isTwoHanded": false
-  },
-  {
-    "name": "Dizana's quiver",
     "id": 28951,
     "weight": 0.453,
     "version": "Charged",
@@ -62189,73 +62187,11 @@
   },
   {
     "name": "Dizana's quiver",
-    "id": 28953,
-    "weight": 0.453,
-    "version": "Charged + Locked",
-    "slot": "cape",
-    "image": "Dizana's quiver (l).png",
-    "speed": 0,
-    "category": "",
-    "bonuses": {
-      "str": 0,
-      "ranged_str": 3,
-      "magic_str": 0,
-      "prayer": 0
-    },
-    "offensive": {
-      "stab": 0,
-      "slash": 0,
-      "crush": 0,
-      "magic": 0,
-      "ranged": 18
-    },
-    "defensive": {
-      "stab": 0,
-      "slash": 0,
-      "crush": 0,
-      "magic": 0,
-      "ranged": 0
-    },
-    "isTwoHanded": false
-  },
-  {
-    "name": "Dizana's quiver",
     "id": 28947,
     "weight": 0.453,
     "version": "Uncharged",
     "slot": "cape",
     "image": "Dizana's quiver (uncharged).png",
-    "speed": 0,
-    "category": "",
-    "bonuses": {
-      "str": 0,
-      "ranged_str": 3,
-      "magic_str": 0,
-      "prayer": 0
-    },
-    "offensive": {
-      "stab": 0,
-      "slash": 0,
-      "crush": 0,
-      "magic": 0,
-      "ranged": 18
-    },
-    "defensive": {
-      "stab": 0,
-      "slash": 0,
-      "crush": 0,
-      "magic": 0,
-      "ranged": 0
-    },
-    "isTwoHanded": false
-  },
-  {
-    "name": "Dizana's quiver",
-    "id": 28949,
-    "weight": 0.453,
-    "version": "Uncharged + Locked",
-    "slot": "cape",
-    "image": "Dizana's quiver (uncharged) (l).png",
     "speed": 0,
     "category": "",
     "bonuses": {
@@ -66962,6 +66898,37 @@
     "isTwoHanded": true
   },
   {
+    "name": "Dummy stymphike feather",
+    "id": 33644,
+    "weight": 2,
+    "version": "",
+    "slot": "weapon",
+    "image": "Dummy stymphike feather.png",
+    "speed": 3,
+    "category": "Blunt",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
     "name": "Dust battlestaff",
     "id": 20736,
     "weight": 2.267,
@@ -70802,6 +70769,37 @@
       "crush": 0,
       "magic": 0,
       "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Enchanted diamond sickle (b)",
+    "id": 33711,
+    "weight": 1.587,
+    "version": "",
+    "slot": "weapon",
+    "image": "Enchanted diamond sickle.png",
+    "speed": 5,
+    "category": "Slash Sword",
+    "bonuses": {
+      "str": 12,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 5
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 1,
+      "crush": 1,
+      "magic": 1,
+      "ranged": 1
     },
     "isTwoHanded": false
   },
@@ -86089,6 +86087,37 @@
     "isTwoHanded": false
   },
   {
+    "name": "Hallowed flail",
+    "id": 33718,
+    "weight": 0.001,
+    "version": "",
+    "slot": "weapon",
+    "image": "Hallowed flail.png",
+    "speed": 4,
+    "category": "Flail",
+    "bonuses": {
+      "str": 46,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 6
+    },
+    "offensive": {
+      "stab": 32,
+      "slash": 68,
+      "crush": 0,
+      "magic": 10,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 2,
+      "crush": 0,
+      "magic": 10,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
     "name": "Hallowed focus",
     "id": 24723,
     "weight": 0.001,
@@ -89535,7 +89564,7 @@
     "weight": 1.814,
     "version": "Broken",
     "slot": "weapon",
-    "image": "Iban's staff (o) (broken).png",
+    "image": "Iban's staff (b)(o).png",
     "speed": 5,
     "category": "Staff",
     "bonuses": {
@@ -89566,7 +89595,7 @@
     "weight": 2.267,
     "version": "Regular",
     "slot": "weapon",
-    "image": "Iban's staff (orn).png",
+    "image": "Iban's staff (o).png",
     "speed": 5,
     "category": "Staff",
     "bonuses": {
@@ -89628,7 +89657,7 @@
     "weight": 2.267,
     "version": "",
     "slot": "weapon",
-    "image": "Iban's staff (u).png",
+    "image": "Iban's staff (u) (o).png",
     "speed": 5,
     "category": "Staff",
     "bonuses": {
@@ -91205,42 +91234,11 @@
   },
   {
     "name": "Infernal cape",
-    "id": 21287,
-    "weight": 1.814,
-    "version": "Broken",
-    "slot": "cape",
-    "image": "Infernal cape (broken).png",
-    "speed": 0,
-    "category": "",
-    "bonuses": {
-      "str": 8,
-      "ranged_str": 0,
-      "magic_str": 0,
-      "prayer": 2
-    },
-    "offensive": {
-      "stab": 4,
-      "slash": 4,
-      "crush": 4,
-      "magic": 1,
-      "ranged": 1
-    },
-    "defensive": {
-      "stab": 12,
-      "slash": 12,
-      "crush": 12,
-      "magic": 12,
-      "ranged": 12
-    },
-    "isTwoHanded": false
-  },
-  {
-    "name": "Infernal cape",
     "id": 24224,
     "weight": 1.814,
     "version": "Locked",
     "slot": "cape",
-    "image": "Infernal cape.png",
+    "image": "Infernal cape (l).png",
     "speed": 0,
     "category": "",
     "bonuses": {
@@ -100504,6 +100502,37 @@
     "isTwoHanded": false
   },
   {
+    "name": "Makeshift spear",
+    "id": 33655,
+    "weight": 0,
+    "version": "",
+    "slot": "weapon",
+    "image": "Makeshift spear.png",
+    "speed": 0,
+    "category": "Unarmed",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
     "name": "Malediction ward",
     "id": 11924,
     "weight": 3.628,
@@ -108440,6 +108469,37 @@
     "isTwoHanded": false
   },
   {
+    "name": "Necklace of rupture",
+    "id": 33639,
+    "weight": 0.01,
+    "version": "",
+    "slot": "neck",
+    "image": "Necklace of rupture.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 8,
+      "magic_str": 0,
+      "prayer": 3
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 20
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
     "name": "Neitiznot faceguard",
     "id": 24271,
     "weight": 2.721,
@@ -109397,6 +109457,130 @@
       "crush": 73,
       "magic": -3,
       "ranged": 81
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Oathplate slayer helmet",
+    "id": 33338,
+    "weight": 2.267,
+    "version": "",
+    "slot": "head",
+    "image": "Oathplate slayer helmet.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": -6,
+      "ranged": -2
+    },
+    "defensive": {
+      "stab": 30,
+      "slash": 32,
+      "crush": 27,
+      "magic": -1,
+      "ranged": 30
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Oathplate slayer helmet (i)",
+    "id": 33443,
+    "weight": 2.267,
+    "version": "Emir's Arena",
+    "slot": "head",
+    "image": "Oathplate slayer helmet (i).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 3,
+      "ranged": 3
+    },
+    "defensive": {
+      "stab": 30,
+      "slash": 32,
+      "crush": 27,
+      "magic": 10,
+      "ranged": 30
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Oathplate slayer helmet (i)",
+    "id": 33439,
+    "weight": 2.267,
+    "version": "",
+    "slot": "head",
+    "image": "Oathplate slayer helmet (i).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 3,
+      "ranged": 3
+    },
+    "defensive": {
+      "stab": 30,
+      "slash": 32,
+      "crush": 27,
+      "magic": 10,
+      "ranged": 30
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Oathplate slayer helmet (i)",
+    "id": 33441,
+    "weight": 2.267,
+    "version": "Soul Wars",
+    "slot": "head",
+    "image": "Oathplate slayer helmet (i).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 3,
+      "ranged": 3
+    },
+    "defensive": {
+      "stab": 30,
+      "slash": 32,
+      "crush": 27,
+      "magic": 10,
+      "ranged": 30
     },
     "isTwoHanded": false
   },
@@ -115938,6 +116122,130 @@
       "crush": 73,
       "magic": -3,
       "ranged": 81
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Radiant slayer helmet",
+    "id": 33340,
+    "weight": 2.267,
+    "version": "",
+    "slot": "head",
+    "image": "Radiant slayer helmet.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": -6,
+      "ranged": -2
+    },
+    "defensive": {
+      "stab": 30,
+      "slash": 32,
+      "crush": 27,
+      "magic": -1,
+      "ranged": 30
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Radiant slayer helmet (i)",
+    "id": 33449,
+    "weight": 2.267,
+    "version": "Emir's Arena",
+    "slot": "head",
+    "image": "Radiant slayer helmet (i).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 3,
+      "ranged": 3
+    },
+    "defensive": {
+      "stab": 30,
+      "slash": 32,
+      "crush": 27,
+      "magic": 10,
+      "ranged": 30
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Radiant slayer helmet (i)",
+    "id": 33445,
+    "weight": 2.267,
+    "version": "",
+    "slot": "head",
+    "image": "Radiant slayer helmet (i).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 3,
+      "ranged": 3
+    },
+    "defensive": {
+      "stab": 30,
+      "slash": 32,
+      "crush": 27,
+      "magic": 10,
+      "ranged": 30
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Radiant slayer helmet (i)",
+    "id": 33447,
+    "weight": 2.267,
+    "version": "Soul Wars",
+    "slot": "head",
+    "image": "Radiant slayer helmet (i).png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 3,
+      "ranged": 3
+    },
+    "defensive": {
+      "stab": 30,
+      "slash": 32,
+      "crush": 27,
+      "magic": 10,
+      "ranged": 30
     },
     "isTwoHanded": false
   },
@@ -128360,14 +128668,14 @@
       "stab": 0,
       "slash": 0,
       "crush": 0,
-      "magic": -3,
+      "magic": 0,
       "ranged": 0
     },
     "defensive": {
       "stab": 0,
       "slash": 0,
       "crush": 0,
-      "magic": -1,
+      "magic": 0,
       "ranged": 0
     },
     "isTwoHanded": false
@@ -131028,6 +131336,285 @@
       "crush": 0,
       "magic": 0,
       "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Seeking adamant arrow",
+    "id": 33577,
+    "weight": 0.018,
+    "version": "",
+    "slot": "ammo",
+    "image": "Seeking adamant arrow 5.png",
+    "speed": 0,
+    "category": "Unarmed",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 31,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 20
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Seeking amethyst arrow",
+    "id": 33589,
+    "weight": 0.016,
+    "version": "",
+    "slot": "ammo",
+    "image": "Seeking amethyst arrow 5.png",
+    "speed": 0,
+    "category": "Unarmed",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 55,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 20
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Seeking broad arrows",
+    "id": 33601,
+    "weight": 0.016,
+    "version": "",
+    "slot": "ammo",
+    "image": "Seeking broad arrows 5.png",
+    "speed": 0,
+    "category": "Unarmed",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 28,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 20
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Seeking bronze arrow",
+    "id": 33553,
+    "weight": 0.016,
+    "version": "",
+    "slot": "ammo",
+    "image": "Seeking bronze arrow 5.png",
+    "speed": 0,
+    "category": "Unarmed",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 7,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 20
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Seeking dragon arrow",
+    "id": 33595,
+    "weight": 0.016,
+    "version": "",
+    "slot": "ammo",
+    "image": "Seeking dragon arrow 5.png",
+    "speed": 0,
+    "category": "Unarmed",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 60,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 20
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Seeking iron arrow",
+    "id": 33559,
+    "weight": 0.016,
+    "version": "",
+    "slot": "ammo",
+    "image": "Seeking iron arrow 5.png",
+    "speed": 0,
+    "category": "Unarmed",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 10,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 20
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Seeking mithril arrow",
+    "id": 33571,
+    "weight": 0.014,
+    "version": "",
+    "slot": "ammo",
+    "image": "Seeking mithril arrow 5.png",
+    "speed": 0,
+    "category": "Unarmed",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 22,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 20
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Seeking rune arrow",
+    "id": 33583,
+    "weight": 0.016,
+    "version": "",
+    "slot": "ammo",
+    "image": "Seeking rune arrow 5.png",
+    "speed": 0,
+    "category": "Unarmed",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 49,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 20
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Seeking steel arrow",
+    "id": 33565,
+    "weight": 0.016,
+    "version": "",
+    "slot": "ammo",
+    "image": "Seeking steel arrow 5.png",
+    "speed": 0,
+    "category": "Unarmed",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 16,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 20
     },
     "defensive": {
       "stab": 0,
@@ -134010,6 +134597,68 @@
       "slash": 3,
       "crush": 2,
       "magic": 1,
+      "ranged": 0
+    },
+    "isTwoHanded": false
+  },
+  {
+    "name": "Silvthrill ballista",
+    "id": 33800,
+    "weight": 2,
+    "version": "",
+    "slot": "weapon",
+    "image": "Silvthrill ballista.png",
+    "speed": 6,
+    "category": "Crossbow",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 15,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 125
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": true
+  },
+  {
+    "name": "Silvthrill javelin",
+    "id": 33801,
+    "weight": 0,
+    "version": "",
+    "slot": "ammo",
+    "image": "Silvthrill javelin.png",
+    "speed": 0,
+    "category": "",
+    "bonuses": {
+      "str": 0,
+      "ranged_str": 124,
+      "magic_str": 0,
+      "prayer": 0
+    },
+    "offensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
       "ranged": 0
     },
     "isTwoHanded": false
@@ -143312,6 +143961,37 @@
       "ranged": 0
     },
     "isTwoHanded": false
+  },
+  {
+    "name": "Sunspear",
+    "id": 33722,
+    "weight": 3,
+    "version": "",
+    "slot": "weapon",
+    "image": "Sunspear.png",
+    "speed": 5,
+    "category": "Spear",
+    "bonuses": {
+      "str": 70,
+      "ranged_str": 0,
+      "magic_str": 0,
+      "prayer": 7
+    },
+    "offensive": {
+      "stab": 100,
+      "slash": 21,
+      "crush": 60,
+      "magic": 0,
+      "ranged": 0
+    },
+    "defensive": {
+      "stab": 0,
+      "slash": 42,
+      "crush": 28,
+      "magic": 0,
+      "ranged": 0
+    },
+    "isTwoHanded": true
   },
   {
     "name": "Superior calamity breeches",
